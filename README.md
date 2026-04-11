@@ -1,5 +1,7 @@
 # Accelerando: Lobsters
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RichardScottOZ/Accelerando/main?urlpath=lab/tree/Play_Accelerando.ipynb)
+
 A text-based adventure/simulation game based on Charles Stross's science fiction novel "Accelerando", focusing on the themes from the "Lobsters" chapter.
 
 ## About
